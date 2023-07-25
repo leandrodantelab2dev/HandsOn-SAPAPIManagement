@@ -1,1 +1,2 @@
-# Exercício 2 - SAP API Management
+# Exercício 2 - Criando uma API Proxy
+
