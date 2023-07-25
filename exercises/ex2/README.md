@@ -39,10 +39,5 @@ Neste exercício você ira criar e fazer o deploy de uma API Proxy.
 
 2. Clique em deploy
 
-    ![MDK](images/img5.png)
-
-    Nesta página é onde será exibido todos os Providers criados. Clique no botão "Create".
-
     ![MDK](images/img6.png)
-
     ![MDK](images/img7.png)
