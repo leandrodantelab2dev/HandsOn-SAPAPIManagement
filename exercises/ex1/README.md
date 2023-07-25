@@ -23,12 +23,12 @@ Northwind é um serviço OData criada pela Microsoft para fins de treinamento e 
 
 **Informações:**
 
-**Nome:** Northwind
-**Type:** Internet
-**Host:** services.odaa.orgt
-**Port:** 443
-**Use SSL:** Sim
-**Path Prefix:** /V2/Nortwind/Northwind.svc
+- **Nome:** Northwind
+- **Type:** Internet
+- **Host:** services.odata.org
+- **Port:** 443
+- **Use SSL:** Sim
+- **Path Prefix:** /V2/Nortwind/Northwind.svc
 
 2. Aba **Overview**
 
