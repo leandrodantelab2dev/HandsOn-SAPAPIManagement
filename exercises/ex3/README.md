@@ -2,7 +2,7 @@
 
 Neste exercício será demonstrado como utilizar a ferramenta postman para consumir e testar suas APIs desenvolvidas no SAP API Management.
 
-### 3.1 - iniciando o Postman
+### 3.1 - Iniciando o Postman
 
 1. Acesse a página oficial do postman https://www.postman.com/downloads/ para criar uma conta e utlizar a ferramenta. Você poderá utilizar o serviço via Browser ou fazer o download e instalar em sua máquina.
 

@@ -4,7 +4,7 @@ Neste exercício você irá criar e fazer o deploy de uma API Proxy.
 
 ### 2.1 - Acessar área de API Proxy
 
-1. Acesse a página "Design Artifacts"
+1. Acesse a página de APIs em "Design Artifacts"
 
     ![MDK](images/img1.png)
 
