@@ -7,7 +7,8 @@ Este repesitório contém o material para o acompanhamento e a realização do H
 ## Requisitos
 
 Para a realização deste Hands-On é interessante que o participante tenha uma conta para acessar o Postman.
-Você poderá criar sua conta, baixar e instalar o Postman em sua máquina em https://www.postman.com/
+Você poderá criar sua conta, baixar e instalar o Postman em sua máquina em https://www.postman.com/.
+
 **Integration Suite Trial**
 
 ## Exercícios
