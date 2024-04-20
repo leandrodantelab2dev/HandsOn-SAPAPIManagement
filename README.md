@@ -8,9 +8,7 @@ Este repesitório contém o material para o acompanhamento e a realização do H
 
 Para a realização deste Hands-On é interessante que o participante tenha uma conta para acessar o Postman.
 Você poderá criar sua conta, baixar e instalar o Postman em sua máquina em https://www.postman.com/
-
-## Link para o IS
-https://dev-amazon-web-services-ncm543yw.integrationsuite.cfapps.us10-002.hana.ondemand.com/shell/home
+**Integration Suite Trial**
 
 ## Exercícios
 
